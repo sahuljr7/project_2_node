@@ -1,0 +1,4 @@
+Hello! My name is Sahul.
+This message was written using fs.writeFileSync().
+Current date: 9/11/2025
+File system operations are fundamental in Node.js!
